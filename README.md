@@ -77,5 +77,20 @@ You can install OpenCV using pip:
 ## How to Use
 
 1. Run the Python script:
-   python sketch_camera.py
+   `python sketch_camera.py`
+2.A window titled "Face" will appear, showing the sketched output of the webcam feed.
+3.Press the spacebar to capture and save an image in the Sketches directory.
+4.Press 'q' to exit the application.
+
+### Troubleshooting
+
+## Webcam Not Working
+
+1.Ensure your webcam is properly connected.
+2.Check if any other applications are using the webcam.
+
+## No Image Saved
+
+1.Make sure you are pressing the spacebar while the webcam feed is active.
+2.Verify that the Sketches directory exists.
 
