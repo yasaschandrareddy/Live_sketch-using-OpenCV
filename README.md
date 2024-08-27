@@ -8,7 +8,7 @@ This is a simple Python application that captures webcam footage, applies a sket
 - OpenCV (`cv2` library)
 
 You can install OpenCV using pip:
-pip install opencv-python 
+`pip install opencv-python `
 
 ## How It Works
 
